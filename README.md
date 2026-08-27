@@ -62,11 +62,11 @@ Ingeniería en Informática — En curso
 **Escuela Técnica N.º 26 "Confederación Suiza"**  
 Técnico en Computación — Graduado
 
-**CoderHouse**  
-Curso de "Data Analytics" / Mayo 2025 - Julio 2025
+**CoderHouse / Mayo 2025 - Julio 2025**  
+Curso de "Data Analytics" 
 Adquisición de habilidades en modelado de datos, DAX, limpieza y visualización avanzada (proyecto integrador: SuperStore).
 
-**AprendéProgramando**  / Noviembre 2023 - Diciembre 2023
+**AprendéProgramando / Noviembre 2023 - Diciembre 2023**
 Curso Intensivo de "Desarrollo con Python" — Dominio de librerías para análisis de datos (Pandas, NumPy, Matplotlib) y automatización de procesos.
 
 ---
