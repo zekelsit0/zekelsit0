@@ -45,6 +45,9 @@ Me interesa transformar datos en información útil para la toma de decisiones y
 
 Proyectos enfocados en **limpieza, transformación, análisis y visualización de datos** utilizando Python, SQL, Excel y Power BI.
 
+- **[SuperStore Sales & Financial Performance Analytics](https://github.com/zekelsit0/superstore-sales-analytics-powerbi)**
+  Análisis comercial, financiero y logístico desarrollado en Power BI. Incluye transformación ETL con Power Query, modelado dimensional en esquema Copo de Nieve (14 tablas) y creación de medidas financieras con DAX.
+
 ### 💻 Desarrollo Web
 
 Proyectos desarrollados durante mi formación como **Técnico en Computación**, utilizando tecnologías de Frontend, Backend y bases de datos.
