@@ -63,7 +63,7 @@ Ingeniería en Informática — En curso
 Técnico en Computación — Graduado
 
 **CoderHouse / Mayo 2025 - Julio 2025**  
-Curso de "Data Analytics" 
+Curso de "Data Analytics"  — 
 Adquisición de habilidades en modelado de datos, DAX, limpieza y visualización avanzada (proyecto integrador: SuperStore).
 
 **AprendéProgramando / Noviembre 2023 - Diciembre 2023**
