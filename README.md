@@ -1,5 +1,4 @@
 👋 ¡Hola! Soy Ezequiel Pastor
-
 🎓 Estudiante de Ingeniería en Informática en la UBA y Técnico en Computación.
 
 📊 Actualmente enfocado en Análisis de Datos y Business Intelligence, mientras continúo desarrollándome en Software Development.
