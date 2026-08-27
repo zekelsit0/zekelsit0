@@ -12,14 +12,14 @@ Me interesa transformar datos en información útil para la toma de decisiones y
 
 ### 📊 Data & Business Intelligence
 
-- 🐍 Python
-- 🐼 Pandas
-- 📈 Matplotlib
-- 🗄️ SQL / MySQL
-- 📊 Excel
-- 🔄 Power Query
-- 📊 Power BI
-- 📐 DAX
+- Python
+- Pandas
+- Matplotlib
+- SQL / MySQL
+- Excel
+- Power Query
+- Power BI
+- DAX
 
 ### 💻 Desarrollo de Software
 
@@ -56,7 +56,7 @@ Proyectos desarrollados durante mi formación como **Técnico en Computación**,
 **Universidad de Buenos Aires (UBA)**  
 Ingeniería en Informática — En curso
 
-**Escuela Técnica N.º 26**  
+**Escuela Técnica N.º 26 "Confederación Suiza"**  
 Técnico en Computación — Graduado
 
 ---
